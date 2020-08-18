@@ -2,7 +2,7 @@
 Turtle National Flag
 ====================
 
-In this assignment, you will write a Python program that uses turtle graphics to display a design a national flag.
+In this assignment, you will write a Python program that uses turtle graphics to display a design a national flag. You may find slides 4 - 12 of the [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit?usp=sharing) helpful.
 
 Suggested steps to complete this assignment:
 ----------------------------------------------
