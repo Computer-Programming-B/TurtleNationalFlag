@@ -55,4 +55,7 @@ Samples of Student Work
 -----------------------
 ![](TurtleNationalFlagCuba.png)     
 ![](TurtleJapanFlag.png)     
-*Thank you to Raymond Chan for this assignment*
+   
+      
+         
+*Thanks to Raymond Chan for this assignment*
