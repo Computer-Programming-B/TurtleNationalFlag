@@ -1,3 +1,4 @@
+![](Turtle Japan Flag.png)
 Turtle National Flag
 ====================
 
@@ -39,7 +40,7 @@ tommy.write("I'm Tommy and I'm at the origin (0,0)", align="center", font=(None,
 ```
 
 6. Click *Run* and you should see the following output:   
-
+![](TurtleStart.JPG)
 
 Extensions
 ------------
