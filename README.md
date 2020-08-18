@@ -53,5 +53,6 @@ Don't hesitate to ask for help if your aren't sure how something is suppose to w
 
 Samples of Student Work
 -----------------------
+![](TurtleNationalFlagCuba.png)     
 ![](TurtleJapanFlag.png)     
 *Thank you to Raymond Chan for this assignment*
