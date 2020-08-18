@@ -8,7 +8,7 @@ Suggested steps to complete this assignment:
 ----------------------------------------------
 1. Work through this [Python Turtle tutorial](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code) to get a sense of how Turtle graphics work
 2. Sign up for an account at [repl.it](repl.it) if you don't already have one
-3. Create a new Python repl.it by licking on blue plus button in the top right corner of your [Repls Dashboard](https://repl.it/repls)
+3. Create a new Python repl.it by clicking the blue plus button in the top right corner of your [Repls Dashboard](https://repl.it/repls)
 4. Select *Python* and give your project a meaningful name like *TurtleNationaLFlag* and click *Create repl*
 5. On line 1 of main.py, copy and paste the following starter code:   
 ```python
