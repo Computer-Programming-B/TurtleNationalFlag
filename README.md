@@ -2,11 +2,11 @@
 Turtle National Flag
 ====================
 
-In this assignment, you will write a Python program that uses turtle graphics to display a national flag. You may find slides 4 - 20 of the [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit?usp=sharing) helpful.
+In this assignment, you will write a Python program that uses turtle graphics to display a national flag. You may find slides 4 - 20 of the [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit?usp=sharing) helpful. You may also find this [Python Turtle tutorial](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code) helpful in getting a sense of how Turtle graphics work
 
 Suggested steps to starting this assignment:
 ----------------------------------------------
-1. Work through this [Python Turtle tutorial](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code) to get a sense of how Turtle graphics work
+1. 
 2. Sign up for an account at [repl.it](https://repl.it/) if you don't already have one
 3. Create a new Python repl.it by clicking the blue plus button in the top right corner of your [Repls Dashboard](https://repl.it/repls)
 4. Select *Python* and give your project a meaningful name like *TurtleNationaLFlag* and click *Create repl*
