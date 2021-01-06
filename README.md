@@ -2,7 +2,7 @@
 Turtle National Flag
 ====================
 
-In this assignment, you will write a Python program that uses turtle graphics to display a national flag. You may find slides 4 - 20 of the [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit?usp=sharing) helpful. You may also find this [Python Turtle tutorial](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code) helpful in getting a sense of how Turtle graphics work
+In this assignment, you will write a Python program that uses turtle graphics to display a national flag. You may find slides 4 - 20 of the [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit?usp=sharing) helpful. You may also find this [Python Turtle tutorial](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code) helpful in getting a sense of how Turtle graphics work. The CIA World Fact Book has [pictures of flags from around the world](https://www.cia.gov/the-world-factbook/references/flags-of-the-world/).
 
 Suggested steps to starting this assignment:
 ----------------------------------------------
