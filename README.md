@@ -40,7 +40,7 @@ tommy.write("I'm Tommy and I'm at the origin (0,0)", align="center", font=(None,
 6. Click *Run* and you should see the following output:   
 ![](TurtleStart.JPG)   
 7. Now modify your running program to make a flag
-8. When you are happy with your program submit the repl link by choosing *Share | Copy repl link* and adding the link to the assignment on google classroom 
+8. When you are happy with your program submit it to google classroom. See slides 33-36 of the [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit?usp=sharing) for specific instructions. 
 
 Additional Resources
 ------------
