@@ -53,8 +53,6 @@ Samples of Student Work
 -----------------------
 ![](JuanBrazil.gif)   
 ![](GloriaFrance.gif)   
-![](Rachel.gif)   
-
-      
+     
          
 *Thanks to Raymond Chan for this assignment*
