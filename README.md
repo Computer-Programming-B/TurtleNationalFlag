@@ -54,12 +54,7 @@ Samples of Student Work
 ![](JuanBrazil.gif)   
 ![](GloriaFrance.gif)   
 ![](Rachel.gif)   
-![](PradiptiFlag.JPG)   
-![](AaliyahFlag.JPG)   
-![](RogerFlag.JPG)   
-![](TurtleNationalFlagCuba.png)     
-![](TurtleJapanFlag.png)     
-   
+
       
          
 *Thanks to Raymond Chan for this assignment*
