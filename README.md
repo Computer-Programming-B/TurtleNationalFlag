@@ -54,6 +54,7 @@ Samples of Student Work
 [Juan](JuanBrazil.gif)   
 [Benjamin](BenjaminFlag.gif)   
 [Gloria](GloriaFrance.gif)   
+[Marissa](MarissaFlag.gif)   
 [Rachel](Rachel.gif)   
 [Aaliyah](AaliyahFlag.JPG)   
 [Pradipti](PradiptiFlag.JPG)   
