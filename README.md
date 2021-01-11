@@ -60,7 +60,7 @@ Samples of Student Work
 [Rachel](Rachel.gif)   
 [Aaliyah](AaliyahFlag.JPG)   
 [Pradipti](PradiptiFlag.JPG)   
-[Roger](RodgerFlag.JPG)   
+[Roger](RogerFlag.JPG)   
 
      
          
