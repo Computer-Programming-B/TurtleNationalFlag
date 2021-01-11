@@ -52,6 +52,7 @@ Don't hesitate to ask for help if your aren't sure how something is suppose to w
 Samples of Student Work
 -----------------------
 [Juan](JuanBrazil.gif)   
+[Benjamin](BenjaminFlag.gif)   
 [Gloria](GloriaFrance.gif)   
 [Rachel](Rachel.gif)   
 [Aaliyah](AaliyahFlag.JPG)   
