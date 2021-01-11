@@ -53,6 +53,7 @@ Samples of Student Work
 -----------------------
 [Juan](JuanBrazil.gif)   
 [Gloria](GloriaFrance.gif)   
+[Aaliyah](AaliyahFlag.JPG)
      
          
 *Thanks to Raymond Chan for this assignment*
