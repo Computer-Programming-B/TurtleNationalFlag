@@ -55,6 +55,7 @@ Samples of Student Work
 [Sally](SallyFlag.gif)   
 [Dat](DatFlag.gif)   
 [Benjamin](BenjaminFlag.gif)   
+[Kami](KamiFlag.gif)   
 [Gloria](GloriaFrance.gif)   
 [Justin](JustinFlag.gif)   
 [Marissa](MarissaFlag.gif)   
