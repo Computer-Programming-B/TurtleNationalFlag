@@ -14,9 +14,9 @@ import turtle
 
 # create a new turtle object called tommy
 tommy = turtle.Turtle() 
-# make tommy's inital shape a turtle, look up what else turtle's can be
+# make tommy's initial shape a turtle, look up what else turtle's can be
 tommy.shape("turtle") 
-# initalize tommy's draw speed to be 10
+# initialize tommy's draw speed to be 10
 tommy.speed(10)
 
 #fill the background green using begin_fill() and end_fill()
