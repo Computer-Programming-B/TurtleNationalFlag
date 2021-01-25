@@ -53,6 +53,7 @@ Samples of Student Work
 -----------------------
 [Damian](DamianFlag.gif)   
 [Juan](JuanBrazil.gif)   
+[Paolo](PaoloFlag.gif)   
 [Sally](SallyFlag.gif)   
 [Dat](DatFlag.gif)   
 [Tommy](TommyFlag.gif)   
