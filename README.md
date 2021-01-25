@@ -61,6 +61,7 @@ Samples of Student Work
 [Paolo](PaoloFlag.gif)   
 [Tushig](TushigFlag.gif)   
 [Keneth](KenethFlag.gif)   
+[Michael](MichaelFlag.gif)   
 [Sally](SallyFlag.gif)   
 [Dat](DatFlag.gif)   
 [Tommy](TommyFlag.gif)   
