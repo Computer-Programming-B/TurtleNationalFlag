@@ -54,6 +54,7 @@ Samples of Student Work
 [Jack](JackFlag.gif)   
 [Irisa](IrisaFlag.gif)   
 [Damian](DamianFlag.gif)   
+[Joanna](JoannaFlag.gif)   
 [Juan](JuanBrazil.gif)   
 [Paolo](PaoloFlag.gif)   
 [Sally](SallyFlag.gif)   
