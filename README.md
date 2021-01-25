@@ -51,6 +51,7 @@ Don't hesitate to ask for help if your aren't sure how something is suppose to w
 
 Samples of Student Work
 -----------------------
+[Jack](JackFlag.gif)   
 [Damian](DamianFlag.gif)   
 [Juan](JuanBrazil.gif)   
 [Paolo](PaoloFlag.gif)   
