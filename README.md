@@ -2,11 +2,11 @@
 Turtle National Flag
 ====================
 
-In this assignment, you will write a Python program that uses turtle graphics to display a flag. You may find slides 9 - 41 of the [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit?usp=sharing) helpful. You may also find this [Python Turtle tutorial](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code) or the [Python Turtle module documentation](https://docs.python.org/3.3/library/turtle.html?highlight=turtle) helpful in getting a sense of how Turtle graphics work. The CIA World Fact Book has [pictures of flags from around the world](https://www.cia.gov/the-world-factbook/references/flags-of-the-world/).
+In this assignment, you will write a Python program that uses turtle graphics to display a flag. You may find slides 9 - 41 of the [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1bZI-LdwErEXQETAUeHeGOXOwrISVvKMGLxfJEabJ66U/edit?usp=sharing) helpful. You may also find this [Python Turtle tutorial](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code) or the [Python Turtle module documentation](https://docs.python.org/3.3/library/turtle.html?highlight=turtle) helpful in getting a sense of how Turtle graphics work. The CIA World Fact Book has [pictures of flags from around the world](https://www.cia.gov/the-world-factbook/references/flags-of-the-world/).
 
 Suggested steps to starting this assignment:
 ----------------------------------------------
-1. Start a new Python program. (If you are using repl.it see slides 10-15 of the [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit?usp=sharing) for step by step instructions. If you have installed Python on a Windows PC, see slides 16-20)
+1. Start a new Python program. (If you are using repl.it see slides [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1bZI-LdwErEXQETAUeHeGOXOwrISVvKMGLxfJEabJ66U/edit?usp=sharing) for step by step instructions.)
 2. Give your program a meaningful name like *TurtleNationaLFlag*
 5. Copy and paste the following starter code into your program:   
 ```python
@@ -40,7 +40,7 @@ tommy.write("I'm Tommy and I'm at the origin (0,0)", align="center", font=(None,
 6. Click *Run* and you should see the following output:   
 ![](TurtleStart.JPG)   
 7. Now modify your running program to make a flag
-8. When you are happy with your program submit it to google classroom. See slides 33-36 of the [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit?usp=sharing) for specific instructions. 
+8. When you are happy with your program submit it to google classroom. See slides from [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1bZI-LdwErEXQETAUeHeGOXOwrISVvKMGLxfJEabJ66U/edit?usp=sharing) for specific instructions. 
 
 Additional Resources
 ------------
